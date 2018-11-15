@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainPage.xaml](./CS/ObtainHandlesOfAllRows/MainPage.xaml) (VB: [MainPage.xaml.vb](./VB/ObtainHandlesOfAllRows/MainPage.xaml.vb))
+* [MainPage.xaml.cs](./CS/ObtainHandlesOfAllRows/MainPage.xaml.cs) (VB: [MainPage.xaml.vb](./VB/ObtainHandlesOfAllRows/MainPage.xaml.vb))
+<!-- default file list end -->
 # How to Collect the Handles of All Data Rows within a View (Including Hidden Rows)
 
 
